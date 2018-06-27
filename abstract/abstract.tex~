@@ -1,0 +1,20 @@
+
+% Thesis Abstract -----------------------------------------------------
+
+
+%\begin{abstractslong}    %uncommenting this line, gives a different abstract heading
+\begin{abstracts}        %this creates the heading for the abstract page
+
+Stereopsis is a par excellence demonstration of the computational power that neural systems can encapsulate. How is the brain capable of swiftly transforming a stream of binocular two-dimensional signals into a cohesive three-dimensional percept? Many brain regions have been implicated in stereoscopic processing, but their roles remain poorly understood. This dissertation focuses on the contributions of primary and dorsomedial visual cortex. Using state-of-the-art machine learning techniques, we found that disparity encoding in primary visual cortex can be explained by shallow, feed-forward networks optimized to extract absolute depth from naturalistic images. These networks develop physiologically plausible receptive fields, and predict neural responses to highly unnatural stimuli commonly used in the laboratory. They do not necessarily relate to our experience of depth, but seem to act as a bottleneck for depth perception. Conversely, neural activity in downstream specialized areas is likely to be a more faithful correlate of depth perception. Using ultra-high field functional magnetic resonance imaging in humans, we revealed systematic and reproducible cortical organization for stereoscopic depth in dorsal visual areas V3A and V3B/KO. Within these regions, depth selectivity was inversely related to depth magnitude–a key characteristic of stereoscopic perception. Finally, we report evidence for a differential contribution of cortical layers in stereoscopic depth perception.
+
+\end{abstracts}
+%\end{abstractlongs}
+
+
+% ----------------------------------------------------------------------
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../thesis"
+%%% End: 

@@ -1,0 +1,29 @@
+% Thesis Acknowledgements ------------------------------------------------
+
+
+%\begin{acknowledgementslong} %uncommenting this line, gives a different acknowledgements heading
+\begin{acknowledgements}      %this creates the heading for the acknowlegments
+
+  The projects that form the basis of this thesis would not have been possible without the help of many. I would like to acknowledge them here. 
+
+  Thanks to Rosa Panchuelo, Susan Francis, and especially Denis Schluppeck for support with ultra-high field imaging at the University of Nottingham. Thank you also for your patience towards an overexcited first year graduate student.
+
+  I would also like to thank Jan Zimmermann, Valentin Kemper and Rainer Goebel for their help with ultra-high field imaging at the University of Maastricht. Thanks to Jan and Valentin too for caring deeply about the preparations for the experiments.
+
+  Thanks to my colleagues in the laboratory --- they have all helped at some point. I am particularly grateful to Hiroshi Ban for his help during the first few months in the job; I learned a lot. To my colleague Caro Luft, now a lecturer at Queen Mary, University of London: thank you for looking after me.
+
+  I am extremely thankful to Andrew Welchman and Zoe Kourtzi for their advisory role, but also for the endless amount of opportunities and resources that they have always made available to me. I would also like to thank Ed Lalor, now an Associate Professor at the University of Rochester, for his support when I was a postgraduate student at Trinity College Dublin --- my time in Ed's lab was a great experience and the springboard to an exciting doctoral degree.
+  
+  I would like to thank the European Commission for funding my doctorate (FP7, Adaptive Brain Computations Initial Training Network) and the Erasmus Mundus programme that prepared me for this degree.
+
+  Most of all, I would like to thank my family --- including my parents and my sister --- for uninterrupted support and reassurance. To my wife Ksenia and my son Ivan: thanks for being part of this journey. This book is dedicated to you.
+
+\end{acknowledgements}
+%\end{acknowledgmentslong}
+
+% ------------------------------------------------------------------------
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../thesis"
+%%% End: 

@@ -1,0 +1,74 @@
+\begin{figure}
+\centering
+\begin{tikzpicture}[baseline] 
+\begin{axis}[
+  title=Position unit,
+  axis x line*=bottom,
+  axis y line*=left,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  ylabel={Information (bits)},
+  ymin=0, ymax=0.1,
+  no markers,
+  scaled ticks=false,
+  yticklabel style={
+      /pgf/number format/precision=2,
+      /pgf/number format/fixed,
+      /pgf/number format/fixed zerofill,
+    }
+]
+\addplot table {data/infSimplePos4_information.txt};
+\end{axis}
+\end{tikzpicture}
+%
+\hskip 10pt
+% 
+\begin{tikzpicture}[baseline]
+
+\begin{axis}[
+  title=Phase unit,
+  axis x line*=bottom,
+  axis y line*=left,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  xlabel={Disparity (pixel)},
+  ymin=0, ymax=0.1,
+  no markers,
+  scaled ticks=false,
+  yticklabels={,,},
+  yticklabel style={
+      /pgf/number format/precision=2,
+      /pgf/number format/fixed,
+      /pgf/number format/fixed zerofill,
+    }
+]
+\addplot table {data/infSimplePhase4_information.txt};
+\end{axis}
+\end{tikzpicture}
+%
+\hskip 10pt
+%
+\begin{tikzpicture}[baseline]
+\begin{axis}[
+  title=Hybrid unit,
+  axis x line*=bottom,
+  axis y line*=left,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  ymin=0, ymax=0.1,
+  no markers,
+  scaled ticks=false,
+  yticklabels={,,},
+  yticklabel style={
+      /pgf/number format/precision=2,
+      /pgf/number format/fixed,
+      /pgf/number format/fixed zerofill,
+    }
+]
+\addplot table {data/infSimpleHybrid4_information.txt};
+\end{axis}
+\end{tikzpicture}
+
+\caption{Simple cells with position, phase, or hybrid shifts encode information about non-preferred stimulus disparity.}
+\label{fig:DispInf}
+\end{figure}

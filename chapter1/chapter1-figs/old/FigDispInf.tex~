@@ -1,0 +1,45 @@
+\begin{figure}
+\centering
+\begin{tikzpicture}[baseline] 
+\begin{axis}[
+  title=Position,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  ylabel={Information (bits)},
+  no markers,
+]
+\addplot table {data/infSimplePos4_information.txt};
+\end{axis}
+\end{tikzpicture}
+%
+\hskip 10pt
+% 
+\begin{tikzpicture}[baseline]
+
+\begin{axis}[
+  title=Phase,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  xlabel={Disparity (pixel)},
+  no markers,
+]
+\addplot table {data/infSimplePhase4_information.txt};
+\end{axis}
+\end{tikzpicture}
+%
+\hskip 10pt
+%
+\begin{tikzpicture}[baseline]
+\begin{axis}[
+  title=Hybrid,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  no markers,
+]
+\addplot table {data/infSimpleHybrid4_information.txt};
+\end{axis}
+\end{tikzpicture}
+
+\caption{Simple cells with position, phase, or hybrid shifts encode information about non-preferred stimulus disparity.}
+\label{fig:DispInf}
+\end{figure}

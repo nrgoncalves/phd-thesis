@@ -1,0 +1,130 @@
+% Input Macros (i.e. write your own macros file called MacroFile1.tex)
+\include{Macros/MacroFile1}
+
+\documentclass[oneside,12pt]{classes/CUEDthesisPSnPDF}
+
+% CUSTOM PACKAGES
+\usepackage{siunitx}
+\usepackage{todonotes}
+% \usepackage[superscript,biblabel]{cite}
+\usepackage[super,comma,sort&compress]{natbib}
+
+% for better equation alignment
+\usepackage{IEEEtrantools}
+% \usepackage{amsfonts}
+% \usepackage{amssymb}
+% \usepackage{amsmath}
+\usepackage{pgfplots}
+\usepgfplotslibrary{statistics}
+
+% \ifpdf
+%     \pdfinfo { /Title  (Goncalves NR - PhD Thesis)
+
+% \ifpdf
+%     \pdfinfo { /Title  (Goncalves NR - PhD Thesis)
+%                /Creator (TeX)
+%                /Producer (pdfTeX)
+%                /Author (Nuno Reis Goncalves nrg30@cam.ac.uk)
+%                /CreationDate (D:20150101000000)  %format D:YYYYMMDDhhmmss
+%                /ModDate (D:20150101000000)
+%                /Subject (Neural computation of depth from binocular disparity)
+%                /Keywords (fMRI, vision, binocular disparity)}
+%     \pdfcatalog { /PageMode (/UseOutlines)
+%                   /OpenAction (fitbh)  }
+% \fi
+
+\title{Neural computation of depth from binocular disparity}
+
+\ifpdf
+  \author{\href{mailto:nrg30@cam.ac.uk}{Nuno Reis Gon\c{c}alves}}
+  \collegeordept{\href{http://www.sid.cam.ac.uk}{Sidney Sussex College}}
+  \university{\href{http://www.cam.ac.uk}{University of Cambridge}}
+  \crest{\includegraphics[width=30mm]{UnivShield}} % insert the file name that contains the crest in-place of 'UnivShield'
+\else
+  \author{Nuno Reis Gon\c{c}alves}
+  \collegeordept{Sidney Sussex College}
+  \collegeordept{Department of Psychology}
+  \university{University of Cambridge}
+  \crest{\includegraphics[bb = 0 0 292 336, width=30mm]{UnivShield}}
+\fi
+
+%\renewcommand{\submittedtext}{change the default text here if needed}
+\degree{Doctor of Philosophy}
+\degreedate{January 2018}
+
+% turn off those nasty overfull and underfull hboxes
+\hbadness=10000
+\hfuzz=50pt
+
+% Put all the style files you want in the directory StyleFiles and usepackage like this:
+\usepackage{style-files/watermark}
+
+% other packages
+\usepackage[font=footnotesize, labelfont={footnotesize,bf}]{caption}
+
+% Comment out the next line to get single spacing
+\onehalfspacing
+
+
+\begin{document}
+
+%\language{english}
+
+% A page with the abstract on including title and author etc may be
+% required to be handed in separately. If this is not so, then comment
+% the below 3 lines (between '\begin{abstractseparte}' and 
+% 'end{abstractseparate}'), normally like a declaration ... needs some more
+% work, mind as environment abstracts creates a new page!
+% \begin{abstractseparate}
+%   \input{Abstract/abstract}
+% \end{abstractseparate}
+
+% Using the watermark package which is in StyleFiles/
+% and to remove DRAFT COPY ONLY appearing on the top of all pages comment out below line
+% \watermark{DRAFT COPY ONLY}
+
+\maketitle
+
+%set the number of sectioning levels that get number and appear in the contents
+\setcounter{secnumdepth}{1}
+\setcounter{tocdepth}{1}
+
+\frontmatter % book mode only
+\pagenumbering{roman}
+\include{dedication/dedication}
+\include{acknowledgement/acknowledgement}
+\include{preface/preface}
+\include{abstract/abstract}
+
+\tableofcontents
+\listoffigures
+% \listoftables
+% \printnomenclature  %% Print the nomenclature
+% \addcontentsline{toc}{chapter}{Nomenclature}
+
+\mainmatter % book mode only
+\include{introduction/introduction}
+\include{chapter1/chapter1}
+% \include{chapter2/chapter2}
+\include{chapter3/chapter3}
+\include{chapter4/chapter4}
+\include{chapter5/chapter5}
+\include{discussion/discussion}
+% \include{conclusions/conclusions}
+
+\backmatter % book mode only
+% \appendix
+% \include{appendix1/appendix1}
+% \include{appendix2/appendix2}
+
+\bibliographystyle{unsrtInitials}
+%\bibliographystyle{Classes/CUEDbiblio}
+%\bibliographystyle{Classes/jmb}
+%\bibliographystyle{Classes/jmb} % bibliography style
+\renewcommand{\bibname}{References} % changes default name Bibliography to References
+\bibliography{/Users/nuno/Dropbox/NRG/library/ResearchLibrary_BibDesk}
+% \bibliography{/Users/nuno/Sync/paper/ResearchLibrary_BibDesk.bib}
+
+% \Bibliography{references/references} % References file
+
+\end{document}

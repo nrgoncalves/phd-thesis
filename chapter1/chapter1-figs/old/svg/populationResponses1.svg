@@ -1,0 +1,2192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448 1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/Users/NunoGoncalves/Desktop/prcDispTuned2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   sodipodi:docname="populationResponses1.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath4179"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4181"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5162"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5164"
+         d="m 665.102,453.602 3494.998,0 0,1058.998 -3494.998,0 0,-1058.998 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5942"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5944"
+         d="m 665.102,453.602 3494.998,0 0,1058.998 -3494.998,0 0,-1058.998 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6947"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6949"
+         d="m 477.102,363.602 9472.998,0 0,1306.998 -9472.998,0 0,-1306.998 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9018"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9020"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4558"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4560"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5071"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5073"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5852"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5854"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6295"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6297"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6738"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6740"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7181"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7183"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7669"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7671"
+         d="m 568.898,494.602 2165.002,0 0,693.398 -2165.002,0 0,-693.398 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="618.96353"
+     inkscape:cy="886.63891"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="756"
+     inkscape:window-x="76"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4147"
+       originx="-177.2309"
+       originy="-652.80176" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-177.2309,652.80178)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4562"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.00752,-477.65212 c 0.99412,0 1.94825,-0.395 2.65125,-1.09812 0.70325,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.3955,-1.94825 -1.09875,-2.65125 -0.703,-0.70325 -1.65712,-1.09875 -2.65125,-1.09875 -0.99462,0 -1.94875,0.3955 -2.65188,1.09875 -0.70312,0.703 -1.09812,1.65713 -1.09812,2.65125 0,0.99463 0.395,1.94875 1.09812,2.65188 0.70313,0.70312 1.65726,1.09812 2.65188,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4564"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 399.21202,-477.65212 c 0.99463,0 1.94875,-0.395 2.65188,-1.09812 0.70312,-0.70313 1.09812,-1.65725 1.09812,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09812,-2.65125 -0.70313,-0.70325 -1.65725,-1.09875 -2.65188,-1.09875 -0.99463,0 -1.94825,0.3955 -2.65137,1.09875 -0.70363,0.703 -1.09863,1.65713 -1.09863,2.65125 0,0.99463 0.395,1.94875 1.09863,2.65188 0.70312,0.70312 1.65674,1.09812 2.65137,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4566"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 404.41714,-477.65212 c 0.99463,0 1.94826,-0.395 2.65138,-1.09812 0.70363,-0.70313 1.09862,-1.65725 1.09862,-2.65188 0,-0.99412 -0.39499,-1.94825 -1.09862,-2.65125 -0.70312,-0.70325 -1.65675,-1.09875 -2.65138,-1.09875 -0.99462,0 -1.94875,0.3955 -2.65187,1.09875 -0.70313,0.703 -1.09813,1.65713 -1.09813,2.65125 0,0.99463 0.395,1.94875 1.09813,2.65188 0.70312,0.70312 1.65725,1.09812 2.65187,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4568"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 409.62227,-477.65212 c 0.99412,0 1.94813,-0.395 2.65125,-1.09812 0.70313,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.39562,-1.94825 -1.09875,-2.65125 -0.70312,-0.70325 -1.65713,-1.09875 -2.65125,-1.09875 -0.99475,0 -1.94875,0.3955 -2.65188,1.09875 -0.70312,0.703 -1.09812,1.65713 -1.09812,2.65125 0,0.99463 0.395,1.94875 1.09812,2.65188 0.70313,0.70312 1.65713,1.09812 2.65188,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4570"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 414.82677,-477.65212 c 0.99462,0 1.94875,-0.395 2.65188,-1.09812 0.70312,-0.70313 1.09812,-1.65725 1.09812,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09812,-2.65125 -0.70313,-0.70325 -1.65726,-1.09875 -2.65188,-1.09875 -0.99462,0 -1.94825,0.3955 -2.65138,1.09875 -0.70362,0.703 -1.09862,1.65713 -1.09862,2.65125 0,0.99463 0.395,1.94875 1.09862,2.65188 0.70313,0.70312 1.65676,1.09812 2.65138,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4572"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 420.0319,-477.65212 c 0.99462,0 1.94824,-0.395 2.65137,-1.09812 0.70363,-0.70313 1.09863,-1.65725 1.09863,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09863,-2.65125 -0.70313,-0.70325 -1.65675,-1.09875 -2.65137,-1.09875 -0.99463,0 -1.94876,0.3955 -2.65188,1.09875 -0.70313,0.703 -1.09812,1.65713 -1.09812,2.65125 0,0.99463 0.39499,1.94875 1.09812,2.65188 0.70312,0.70312 1.65725,1.09812 2.65188,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4574"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 425.23652,-477.65212 c 0.99463,0 1.94863,-0.395 2.65175,-1.09812 0.70313,-0.70313 1.09825,-1.65725 1.09825,-2.65188 0,-0.99412 -0.39512,-1.94825 -1.09825,-2.65125 -0.70312,-0.70325 -1.65712,-1.09875 -2.65175,-1.09875 -0.99425,0 -1.94825,0.3955 -2.65138,1.09875 -0.70312,0.703 -1.09862,1.65713 -1.09862,2.65125 0,0.99463 0.3955,1.94875 1.09862,2.65188 0.70313,0.70312 1.65713,1.09812 2.65138,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4576"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 430.44152,-477.65212 c 0.99462,0 1.94825,-0.395 2.65187,-1.09812 0.70313,-0.70313 1.09813,-1.65725 1.09813,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09813,-2.65125 -0.70362,-0.70325 -1.65725,-1.09875 -2.65187,-1.09875 -0.99462,0 -1.94825,0.3955 -2.65188,1.09875 -0.70312,0.703 -1.09812,1.65713 -1.09812,2.65125 0,0.99463 0.395,1.94875 1.09812,2.65188 0.70363,0.70312 1.65726,1.09812 2.65188,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4578"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 435.64665,-477.65212 c 0.99412,0 1.94824,-0.395 2.65137,-1.09812 0.70312,-0.70313 1.09863,-1.65725 1.09863,-2.65188 0,-0.99412 -0.39551,-1.94825 -1.09863,-2.65125 -0.70313,-0.70325 -1.65725,-1.09875 -2.65137,-1.09875 -0.99463,0 -1.94875,0.3955 -2.65188,1.09875 -0.70312,0.703 -1.09812,1.65713 -1.09812,2.65125 0,0.99463 0.395,1.94875 1.09812,2.65188 0.70313,0.70312 1.65725,1.09812 2.65188,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4580"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 440.85127,-477.65212 c 0.99463,0 1.94862,-0.395 2.65175,-1.09812 0.70312,-0.70313 1.09825,-1.65725 1.09825,-2.65188 0,-0.99412 -0.39513,-1.94825 -1.09825,-2.65125 -0.70313,-0.70325 -1.65712,-1.09875 -2.65175,-1.09875 -0.99425,0 -1.94825,0.3955 -2.65137,1.09875 -0.70313,0.703 -1.09863,1.65713 -1.09863,2.65125 0,0.99463 0.3955,1.94875 1.09863,2.65188 0.70312,0.70312 1.65712,1.09812 2.65137,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4582"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 446.05627,-477.65212 c 0.99463,0 1.9485,-0.395 2.65225,-1.09812 0.7025,-0.70313 1.0975,-1.65725 1.0975,-2.65188 0,-0.99412 -0.395,-1.94825 -1.0975,-2.65125 -0.70375,-0.70325 -1.65762,-1.09875 -2.65225,-1.09875 -0.99463,0 -1.94825,0.3955 -2.65187,1.09875 -0.70313,0.703 -1.09813,1.65713 -1.09813,2.65125 0,0.99463 0.395,1.94875 1.09813,2.65188 0.70362,0.70312 1.65724,1.09812 2.65187,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4584"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 451.26102,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09888,1.65713 -1.09888,2.65125 0,0.99463 0.39513,1.94875 1.09888,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4586"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 456.46602,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4588"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 461.67102,-477.65212 c 0.995,0 1.94875,-0.395 2.6525,-1.09812 0.7025,-0.70313 1.0975,-1.65725 1.0975,-2.65188 0,-0.99412 -0.395,-1.94825 -1.0975,-2.65125 -0.70375,-0.70325 -1.6575,-1.09875 -2.6525,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4590"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 466.87602,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4592"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 472.08102,-477.65212 c 0.99375,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.6575,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4594"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 477.28602,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4596"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 482.49102,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4598"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 487.69602,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4600"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 492.89977,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4602"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 498.10477,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4604"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 503.30977,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4606"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 508.51477,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4608"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 513.71977,-477.65249 c 0.995,0 1.94875,-0.39563 2.65125,-1.09875 0.70375,-0.70313 1.09875,-1.65713 1.09875,-2.65125 0,-0.99463 -0.395,-1.94875 -1.09875,-2.65188 -0.7025,-0.70312 -1.65625,-1.09812 -2.65125,-1.09812 -0.995,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65188 0,0.99412 0.395,1.94812 1.09875,2.65125 0.7025,0.70312 1.65625,1.09875 2.65125,1.09875 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4610"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 518.92477,-477.69062 c 0.99375,0 1.94875,-0.3955 2.65125,-1.09862 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65138 0,-0.99462 -0.395,-1.94875 -1.09875,-2.65187 -0.7025,-0.70313 -1.6575,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.395 -2.65125,1.09813 -0.70375,0.70312 -1.09875,1.65725 -1.09875,2.65187 0,0.99413 0.395,1.94825 1.09875,2.65138 0.7025,0.70312 1.65625,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4612"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 524.12977,-478.56562 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65137 -0.7025,-0.70313 -1.65625,-1.09863 -2.65125,-1.09863 -0.99375,0 -1.94875,0.3955 -2.65125,1.09863 -0.70375,0.70312 -1.09875,1.65725 -1.09875,2.65137 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4614"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 529.33477,-487.38937 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99462 -0.395,-1.94825 -1.09875,-2.65138 -0.7025,-0.70362 -1.65625,-1.09862 -2.65125,-1.09862 -0.99375,0 -1.94875,0.395 -2.65125,1.09862 -0.70375,0.70313 -1.09875,1.65676 -1.09875,2.65138 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4616"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 534.53977,-520.98262 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70363 1.09875,-1.65725 1.09875,-2.65188 0,-0.99463 -0.395,-1.94825 -1.09875,-2.65188 -0.7025,-0.70312 -1.65625,-1.09812 -2.65125,-1.09812 -0.995,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70363 -1.09875,1.65725 -1.09875,2.65188 0,0.99463 0.395,1.94825 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4618"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 539.74477,-556.44437 c 0.995,0 1.94875,-0.395 2.65125,-1.09875 0.70375,-0.7025 1.09875,-1.65625 1.09875,-2.65125 0,-0.99375 -0.395,-1.94875 -1.09875,-2.65125 -0.7025,-0.70375 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.395 -2.65125,1.09875 -0.70375,0.7025 -1.09875,1.6575 -1.09875,2.65125 0,0.995 0.395,1.94875 1.09875,2.65125 0.7025,0.70375 1.65625,1.09875 2.65125,1.09875 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4620"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 544.94977,-535.87712 c 0.995,0 1.94875,-0.395 2.65125,-1.09825 0.70375,-0.703 1.09875,-1.65712 1.09875,-2.65175 0,-0.99413 -0.395,-1.94825 -1.09875,-2.65138 -0.7025,-0.70312 -1.65625,-1.09862 -2.65125,-1.09862 -0.995,0 -1.94875,0.3955 -2.65125,1.09862 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65138 0,0.99463 0.395,1.94875 1.09875,2.65175 0.7025,0.70325 1.65625,1.09825 2.65125,1.09825 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4622"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 550.15477,-495.14474 c 0.99375,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65725 1.09875,-2.65187 0,-0.99463 -0.395,-1.94825 -1.09875,-2.65138 -0.7025,-0.70362 -1.6575,-1.09862 -2.65125,-1.09862 -0.995,0 -1.94875,0.395 -2.65125,1.09862 -0.70375,0.70313 -1.09875,1.65675 -1.09875,2.65138 0,0.99462 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4624"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 555.35852,-479.90349 c 0.995,0 1.94875,-0.3955 2.6525,-1.09863 0.7025,-0.70312 1.0975,-1.65725 1.0975,-2.65137 0,-0.99463 -0.395,-1.94875 -1.0975,-2.65188 -0.70375,-0.70312 -1.6575,-1.09812 -2.6525,-1.09812 -0.995,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65188 0,0.99412 0.395,1.94825 1.09875,2.65137 0.7025,0.70313 1.65625,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4626"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 560.56352,-477.78637 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70362 1.09875,-1.65724 1.09875,-2.65187 0,-0.99462 -0.395,-1.94825 -1.09875,-2.65187 -0.7025,-0.70313 -1.65625,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.395 -2.65125,1.09813 -0.70375,0.70362 -1.09875,1.65725 -1.09875,2.65187 0,0.99463 0.395,1.94825 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4628"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 565.76852,-477.65599 c 0.99375,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65725 1.09875,-2.65187 0,-0.99463 -0.395,-1.94825 -1.09875,-2.65138 -0.7025,-0.70362 -1.6575,-1.09862 -2.65125,-1.09862 -0.995,0 -1.94875,0.395 -2.65125,1.09862 -0.70375,0.70313 -1.09875,1.65675 -1.09875,2.65138 0,0.99462 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4630"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 570.97352,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99462 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70362 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.39513 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65663 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4632"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 576.17852,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4634"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 581.38352,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4636"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 586.58852,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4638"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 591.79352,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4640"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 596.99852,-477.65212 c 0.99375,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.6575,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4642"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 602.20352,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4644"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 607.40852,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4646"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 612.61352,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4648"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 617.81727,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4650"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 623.02227,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4652"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 628.22727,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4654"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 633.43227,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4656"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 638.63727,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4658"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 643.84227,-477.65212 c 0.99375,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.6575,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4660"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 649.04727,-477.65212 c 0.99375,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.6575,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4662"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 654.25227,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4664"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 659.45727,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4666"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 664.66227,-477.65212 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4668"
+       style="fill:none;stroke:#808080;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 540.61227,-481.40212 0,-86.67225"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4672"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 394.00752,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4674"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.00752,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4676"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4678"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,53.2367,26.4445)">
+        <tspan
+           id="tspan4680"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−8</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4682"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 427.83902,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4684"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 427.83902,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4686"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4688"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,80.3098,26.4445)">
+        <tspan
+           id="tspan4690"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−6</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4692"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 461.67102,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4694"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 461.67102,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4696"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4698"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,107.383,26.4445)">
+        <tspan
+           id="tspan4700"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−4</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4702"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 495.50227,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4704"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 495.50227,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4706"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4708"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,134.464,26.4445)">
+        <tspan
+           id="tspan4710"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−2</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4712"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 529.33477,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4714"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 529.33477,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4716"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4718"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,163.514,26.4445)">
+        <tspan
+           id="tspan4720"
+           y="0"
+           x="0">0</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4722"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 563.16602,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4724"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 563.16602,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4726"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4728"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,190.548,26.4445)">
+        <tspan
+           id="tspan4730"
+           y="0"
+           x="0">2</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4732"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 596.99852,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4734"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 596.99852,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4736"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4738"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,217.543,26.4445)">
+        <tspan
+           id="tspan4740"
+           y="0"
+           x="0">4</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4742"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 630.82977,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4744"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 630.82977,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4746"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4748"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,244.687,26.4445)">
+        <tspan
+           id="tspan4750"
+           y="0"
+           x="0">6</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4752"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 664.66227,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4754"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 664.66227,-468.90212 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-419.57687)"
+       id="g4756"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4758"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,271.752,26.4445)">
+        <tspan
+           id="tspan4760"
+           y="0"
+           x="0">8</tspan>
+      </text>
+      <text
+         id="text4762"
+         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,118.568,14.2257)">
+        <tspan
+           id="tspan4764"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.336 8 12.449221 14.671878 19.121099 21.785099 24.449099 28.898319 33.347542 35.570198 40.019417 41.796761 45.796761 50.245983 54.695202 57.359203 59.136543 61.359203 65.3592 67.581856 70.245857 74.695084 76.47242 80.47242 84.921646 86.69899 90.69899">Preferred disparity (pixels)</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4766"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-481.40212 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4768"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-481.40212 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-419.57687)"
+       id="g4770"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4772"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,47.6477)">
+        <tspan
+           id="tspan4774"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.00</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4776"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-491.94799 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4778"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-491.94799 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4786"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-502.49437 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4788"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-502.49437 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-419.57687)"
+       id="g4790"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4792"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,64.5215)">
+        <tspan
+           id="tspan4794"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.10</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4796"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-513.04025 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4798"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-513.04025 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4806"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-523.58662 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4808"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-523.58662 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-419.57687)"
+       id="g4810"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4812"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,81.3953)">
+        <tspan
+           id="tspan4814"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.20</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4816"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-534.13249 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4818"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-534.13249 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4826"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-544.67812 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4828"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-544.67812 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-419.57687)"
+       id="g4830"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4832"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,98.2691)">
+        <tspan
+           id="tspan4834"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.30</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4836"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-555.22437 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4838"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-555.22437 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4846"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-565.77062 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4848"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-565.77062 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-419.57687)"
+       id="g4850"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text4852"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,115.143)">
+        <tspan
+           id="tspan4854"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.40</tspan>
+      </text>
+      <text
+         id="text4856"
+         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,1,1,0,19.2445,66.582)">
+        <tspan
+           id="tspan4858"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.7773428 10.226563 14.226563 18.675785 23.125006 27.574226 31.574226">Response</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4860"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.00752,-468.90212 270.65475,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4862"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-481.40212 0,-86.67225"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5075"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.00752,-325.8442 c 0.99412,0 1.94825,-0.39551 2.65125,-1.09863 0.70325,-0.70313 1.09875,-1.65725 1.09875,-2.65137 0,-0.99463 -0.3955,-1.94875 -1.09875,-2.65188 -0.703,-0.70312 -1.65712,-1.09812 -2.65125,-1.09812 -0.99462,0 -1.94875,0.395 -2.65188,1.09812 -0.70312,0.70313 -1.09812,1.65725 -1.09812,2.65188 0,0.99412 0.395,1.94824 1.09812,2.65137 0.70313,0.70312 1.65726,1.09863 2.65188,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5077"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 399.21202,-326.02195 c 0.99463,0 1.94875,-0.39501 2.65188,-1.09863 0.70312,-0.70313 1.09812,-1.65675 1.09812,-2.65137 0,-0.99463 -0.395,-1.94875 -1.09812,-2.65188 -0.70313,-0.70312 -1.65725,-1.09812 -2.65188,-1.09812 -0.99463,0 -1.94825,0.395 -2.65137,1.09812 -0.70363,0.70313 -1.09863,1.65725 -1.09863,2.65188 0,0.99462 0.395,1.94824 1.09863,2.65137 0.70312,0.70362 1.65674,1.09863 2.65137,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5079"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 404.41714,-326.1582 c 0.99463,0 1.94826,-0.39551 2.65138,-1.09863 0.70363,-0.70313 1.09862,-1.65725 1.09862,-2.65137 0,-0.99463 -0.39499,-1.94876 -1.09862,-2.65188 -0.70312,-0.70313 -1.65675,-1.09812 -2.65138,-1.09812 -0.99462,0 -1.94875,0.39499 -2.65187,1.09812 -0.70313,0.70312 -1.09813,1.65725 -1.09813,2.65188 0,0.99412 0.395,1.94824 1.09813,2.65137 0.70312,0.70312 1.65725,1.09863 2.65187,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5081"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 409.62227,-326.20608 c 0.99412,0 1.94813,-0.395 2.65125,-1.09813 0.70313,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99463 -0.39562,-1.94825 -1.09875,-2.65138 -0.70312,-0.70362 -1.65713,-1.09862 -2.65125,-1.09862 -0.99475,0 -1.94875,0.395 -2.65188,1.09862 -0.70312,0.70313 -1.09812,1.65675 -1.09812,2.65138 0,0.99463 0.395,1.94875 1.09812,2.65187 0.70313,0.70313 1.65713,1.09813 2.65188,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5083"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 414.82677,-326.14058 c 0.99462,0 1.94875,-0.39512 2.65188,-1.09875 0.70312,-0.70312 1.09812,-1.65663 1.09812,-2.65125 0,-0.99475 -0.395,-1.94875 -1.09812,-2.65188 -0.70313,-0.70312 -1.65726,-1.09812 -2.65188,-1.09812 -0.99462,0 -1.94825,0.395 -2.65138,1.09812 -0.70362,0.70313 -1.09862,1.65713 -1.09862,2.65188 0,0.99462 0.395,1.94813 1.09862,2.65125 0.70313,0.70363 1.65676,1.09875 2.65138,1.09875 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5085"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 420.0319,-325.98483 c 0.99462,0 1.94824,-0.39512 2.65137,-1.09825 0.70363,-0.70312 1.09863,-1.65712 1.09863,-2.65175 0,-0.99425 -0.395,-1.94825 -1.09863,-2.65138 -0.70313,-0.70312 -1.65675,-1.09862 -2.65137,-1.09862 -0.99463,0 -1.94876,0.3955 -2.65188,1.09862 -0.70313,0.70313 -1.09812,1.65713 -1.09812,2.65138 0,0.99463 0.39499,1.94863 1.09812,2.65175 0.70312,0.70313 1.65725,1.09825 2.65188,1.09825 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5087"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 425.23652,-325.79058 c 0.99463,0 1.94863,-0.395 2.65175,-1.09813 0.70313,-0.70312 1.09825,-1.65724 1.09825,-2.65187 0,-0.99413 -0.39512,-1.94825 -1.09825,-2.65137 -0.70312,-0.70313 -1.65712,-1.09863 -2.65175,-1.09863 -0.99425,0 -1.94825,0.3955 -2.65138,1.09863 -0.70312,0.70312 -1.09862,1.65724 -1.09862,2.65137 0,0.99463 0.3955,1.94875 1.09862,2.65187 0.70313,0.70313 1.65713,1.09813 2.65138,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5089"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 430.44152,-325.60933 c 0.99462,0 1.94825,-0.39512 2.65187,-1.09875 0.70313,-0.70312 1.09813,-1.65663 1.09813,-2.65125 0,-0.99475 -0.395,-1.94875 -1.09813,-2.65188 -0.70362,-0.70312 -1.65725,-1.09812 -2.65187,-1.09812 -0.99462,0 -1.94825,0.395 -2.65188,1.09812 -0.70312,0.70313 -1.09812,1.65713 -1.09812,2.65188 0,0.99462 0.395,1.94813 1.09812,2.65125 0.70363,0.70363 1.65726,1.09875 2.65188,1.09875 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5091"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 435.64665,-325.4737 c 0.99412,0 1.94824,-0.39501 2.65137,-1.09813 0.70312,-0.70313 1.09863,-1.65725 1.09863,-2.65187 0,-0.99413 -0.39551,-1.94813 -1.09863,-2.65138 -0.70313,-0.703 -1.65725,-1.09862 -2.65137,-1.09862 -0.99463,0 -1.94875,0.39562 -2.65188,1.09862 -0.70312,0.70325 -1.09812,1.65725 -1.09812,2.65138 0,0.99462 0.395,1.94874 1.09812,2.65187 0.70313,0.70312 1.65725,1.09813 2.65188,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5093"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 440.85127,-325.3877 c 0.99463,0 1.94862,-0.39501 2.65175,-1.09813 0.70312,-0.70313 1.09825,-1.65725 1.09825,-2.65187 0,-0.99413 -0.39513,-1.94826 -1.09825,-2.65138 -0.70313,-0.70362 -1.65712,-1.09862 -2.65175,-1.09862 -0.99425,0 -1.94825,0.395 -2.65137,1.09862 -0.70313,0.70312 -1.09863,1.65725 -1.09863,2.65138 0,0.99462 0.3955,1.94874 1.09863,2.65187 0.70312,0.70312 1.65712,1.09813 2.65137,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5095"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 446.05627,-325.34083 c 0.99463,0 1.9485,-0.395 2.65225,-1.09813 0.7025,-0.70312 1.0975,-1.65724 1.0975,-2.65187 0,-0.99413 -0.395,-1.94825 -1.0975,-2.65138 -0.70375,-0.70362 -1.65762,-1.09862 -2.65225,-1.09862 -0.99463,0 -1.94825,0.395 -2.65187,1.09862 -0.70313,0.70313 -1.09813,1.65725 -1.09813,2.65138 0,0.99463 0.395,1.94875 1.09813,2.65187 0.70362,0.70313 1.65724,1.09813 2.65187,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5097"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 451.26102,-325.31783 c 0.995,0 1.94875,-0.39513 2.65125,-1.09875 0.70375,-0.70312 1.09875,-1.65663 1.09875,-2.65125 0,-0.99475 -0.395,-1.94875 -1.09875,-2.65188 -0.7025,-0.70312 -1.65625,-1.09812 -2.65125,-1.09812 -0.99375,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70313 -1.09888,1.65713 -1.09888,2.65188 0,0.99462 0.39513,1.94813 1.09888,2.65125 0.7025,0.70362 1.6575,1.09875 2.65125,1.09875 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5099"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 456.46602,-325.30808 c 0.995,0 1.94875,-0.395 2.65125,-1.09825 0.70375,-0.7035 1.09875,-1.65713 1.09875,-2.65175 0,-0.99462 -0.395,-1.94825 -1.09875,-2.65137 -0.7025,-0.70363 -1.65625,-1.09863 -2.65125,-1.09863 -0.995,0 -1.94875,0.395 -2.65125,1.09863 -0.70375,0.70312 -1.09875,1.65675 -1.09875,2.65137 0,0.99463 0.395,1.94825 1.09875,2.65175 0.7025,0.70325 1.65625,1.09825 2.65125,1.09825 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5101"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 461.67102,-325.30421 c 0.995,0 1.94875,-0.39499 2.6525,-1.09812 0.7025,-0.70312 1.0975,-1.65725 1.0975,-2.65188 0,-0.99412 -0.395,-1.94824 -1.0975,-2.65137 -0.70375,-0.70363 -1.6575,-1.09863 -2.6525,-1.09863 -0.995,0 -1.94875,0.395 -2.65125,1.09863 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65137 0,0.99463 0.395,1.94876 1.09875,2.65188 0.7025,0.70313 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5103"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 466.87602,-325.30221 c 0.995,0 1.94875,-0.39562 2.65125,-1.09874 0.70375,-0.70313 1.09875,-1.65713 1.09875,-2.65126 0,-0.99462 -0.395,-1.94875 -1.09875,-2.65187 -0.7025,-0.70313 -1.65625,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.395 -2.65125,1.09813 -0.70375,0.70312 -1.09875,1.65725 -1.09875,2.65187 0,0.99413 0.395,1.94813 1.09875,2.65126 0.7025,0.70312 1.65625,1.09874 2.65125,1.09874 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5105"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 472.08102,-325.30183 c 0.99375,0 1.94875,-0.3955 2.65125,-1.09863 0.70375,-0.70312 1.09875,-1.65712 1.09875,-2.65137 0,-0.99463 -0.395,-1.94862 -1.09875,-2.65175 -0.7025,-0.70312 -1.6575,-1.09825 -2.65125,-1.09825 -0.995,0 -1.94875,0.39513 -2.65125,1.09825 -0.70375,0.70313 -1.09875,1.65712 -1.09875,2.65175 0,0.99425 0.395,1.94825 1.09875,2.65137 0.7025,0.70313 1.65625,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5107"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 477.28602,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99463 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70362 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.39513 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65662 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5109"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 482.49102,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.6575,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5111"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 487.69602,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5113"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 492.89977,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.6575,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5115"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 498.10477,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.6575,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5117"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 503.30977,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5119"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 508.51477,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5121"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 513.71977,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5123"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 518.92477,-325.30183 c 0.99375,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.6575,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5125"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 524.12977,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.6575,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5127"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 529.33477,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.99375,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.6575,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5129"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 534.53977,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5131"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 539.74477,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5133"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 544.94977,-325.30183 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5135"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 550.15477,-325.30183 c 0.99375,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99463 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70362 -1.6575,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.39513 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65662 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5137"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 555.35852,-325.30183 c 0.995,0 1.94875,-0.395 2.6525,-1.09863 0.7025,-0.70312 1.0975,-1.65674 1.0975,-2.65137 0,-0.99463 -0.395,-1.94825 -1.0975,-2.65175 -0.70375,-0.70312 -1.6575,-1.09825 -2.6525,-1.09825 -0.995,0 -1.94875,0.39513 -2.65125,1.09825 -0.70375,0.7035 -1.09875,1.65712 -1.09875,2.65175 0,0.99463 0.395,1.94825 1.09875,2.65137 0.7025,0.70363 1.65625,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5139"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 560.56352,-325.30221 c 0.995,0 1.94875,-0.39512 2.65125,-1.09825 0.70375,-0.70362 1.09875,-1.65712 1.09875,-2.65175 0,-0.99462 -0.395,-1.94824 -1.09875,-2.65137 -0.7025,-0.70363 -1.65625,-1.09863 -2.65125,-1.09863 -0.995,0 -1.94875,0.395 -2.65125,1.09863 -0.70375,0.70313 -1.09875,1.65675 -1.09875,2.65137 0,0.99463 0.395,1.94813 1.09875,2.65175 0.7025,0.70313 1.65625,1.09825 2.65125,1.09825 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5141"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 565.76852,-325.30371 c 0.99375,0 1.94875,-0.395 2.65125,-1.09862 0.70375,-0.70312 1.09875,-1.65675 1.09875,-2.65138 0,-0.99462 -0.395,-1.94874 -1.09875,-2.65187 -0.7025,-0.70312 -1.6575,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.39501 -2.65125,1.09813 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65187 0,0.99463 0.395,1.94826 1.09875,2.65138 0.7025,0.70362 1.65625,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5143"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 570.97352,-325.30958 c 0.995,0 1.94875,-0.3955 2.65125,-1.09862 0.70375,-0.70313 1.09875,-1.65725 1.09875,-2.65138 0,-0.99463 -0.395,-1.94875 -1.09875,-2.65187 -0.7025,-0.70313 -1.65625,-1.09863 -2.65125,-1.09863 -0.995,0 -1.94875,0.3955 -2.65125,1.09863 -0.70375,0.70312 -1.09875,1.65724 -1.09875,2.65187 0,0.99412 0.395,1.94825 1.09875,2.65138 0.7025,0.70312 1.65625,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5145"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 576.17852,-325.33208 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70313 1.09875,-1.65726 1.09875,-2.65188 0,-0.99462 -0.395,-1.94825 -1.09875,-2.65137 -0.7025,-0.70363 -1.65625,-1.09863 -2.65125,-1.09863 -0.99375,0 -1.94875,0.395 -2.65125,1.09863 -0.70375,0.70312 -1.09875,1.65675 -1.09875,2.65137 0,0.99463 0.395,1.94875 1.09875,2.65188 0.7025,0.70312 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5147"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 581.38352,-325.41158 c 0.995,0 1.94875,-0.39513 2.65125,-1.09825 0.70375,-0.70313 1.09875,-1.65713 1.09875,-2.65175 0,-0.99425 -0.395,-1.94825 -1.09875,-2.65137 -0.7025,-0.70313 -1.65625,-1.09863 -2.65125,-1.09863 -0.995,0 -1.94875,0.3955 -2.65125,1.09863 -0.70375,0.70312 -1.09875,1.65712 -1.09875,2.65137 0,0.99462 0.395,1.94862 1.09875,2.65175 0.7025,0.70312 1.65625,1.09825 2.65125,1.09825 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5149"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 586.58852,-325.67683 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65187 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65125 -0.7025,-0.70325 -1.65625,-1.09875 -2.65125,-1.09875 -0.995,0 -1.94875,0.3955 -2.65125,1.09875 -0.70375,0.703 -1.09875,1.65713 -1.09875,2.65125 0,0.99463 0.395,1.94875 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5151"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 591.79352,-326.4712 c 0.995,0 1.94875,-0.39501 2.65125,-1.09863 0.70375,-0.70313 1.09875,-1.65675 1.09875,-2.65137 0,-0.99463 -0.395,-1.94876 -1.09875,-2.65188 -0.7025,-0.70313 -1.65625,-1.09812 -2.65125,-1.09812 -0.995,0 -1.94875,0.39499 -2.65125,1.09812 -0.70375,0.70312 -1.09875,1.65725 -1.09875,2.65188 0,0.99462 0.395,1.94824 1.09875,2.65137 0.7025,0.70362 1.65625,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5153"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 596.99852,-328.53221 c 0.99375,0 1.94875,-0.395 2.65125,-1.09862 0.70375,-0.70312 1.09875,-1.65675 1.09875,-2.65137 0,-0.99463 -0.395,-1.94875 -1.09875,-2.65188 -0.7025,-0.70312 -1.6575,-1.09812 -2.65125,-1.09812 -0.995,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65188 0,0.99462 0.395,1.94825 1.09875,2.65137 0.7025,0.70362 1.65625,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5155"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 602.20352,-332.97608 c 0.995,0 1.94875,-0.395 2.65125,-1.09862 0.70375,-0.70313 1.09875,-1.65675 1.09875,-2.65138 0,-0.99462 -0.395,-1.94875 -1.09875,-2.65188 -0.7025,-0.70312 -1.65625,-1.09812 -2.65125,-1.09812 -0.995,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70313 -1.09875,1.65726 -1.09875,2.65188 0,0.99463 0.395,1.94825 1.09875,2.65138 0.7025,0.70362 1.65625,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5157"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 607.40852,-340.67683 c 0.995,0 1.94875,-0.3955 2.65125,-1.09863 0.70375,-0.70312 1.09875,-1.65712 1.09875,-2.65137 0,-0.99463 -0.395,-1.94862 -1.09875,-2.65175 -0.7025,-0.70312 -1.65625,-1.09825 -2.65125,-1.09825 -0.99375,0 -1.94875,0.39513 -2.65125,1.09825 -0.70375,0.70313 -1.09875,1.65712 -1.09875,2.65175 0,0.99425 0.395,1.94825 1.09875,2.65137 0.7025,0.70313 1.6575,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5159"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 612.61352,-350.83845 c 0.995,0 1.94875,-0.395 2.65125,-1.09863 0.70375,-0.70313 1.09875,-1.65675 1.09875,-2.65137 0,-0.99463 -0.395,-1.94863 -1.09875,-2.65175 -0.7025,-0.70313 -1.65625,-1.09825 -2.65125,-1.09825 -0.995,0 -1.94875,0.39512 -2.65125,1.09825 -0.70375,0.70312 -1.09875,1.65712 -1.09875,2.65175 0,0.99462 0.395,1.94824 1.09875,2.65137 0.7025,0.70363 1.65625,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5161"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 617.81727,-359.9067 c 0.995,0 1.94875,-0.39513 2.65125,-1.09863 0.70375,-0.70313 1.09875,-1.65675 1.09875,-2.65137 0,-0.99463 -0.395,-1.94875 -1.09875,-2.65188 -0.7025,-0.70312 -1.65625,-1.09812 -2.65125,-1.09812 -0.99375,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65188 0,0.99462 0.395,1.94824 1.09875,2.65137 0.7025,0.7035 1.6575,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5163"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 623.02227,-363.34771 c 0.995,0 1.94875,-0.39499 2.65125,-1.09812 0.70375,-0.70312 1.09875,-1.65725 1.09875,-2.65188 0,-0.99412 -0.395,-1.94825 -1.09875,-2.65137 -0.7025,-0.70313 -1.65625,-1.09863 -2.65125,-1.09863 -0.99375,0 -1.94875,0.3955 -2.65125,1.09863 -0.70375,0.70312 -1.09875,1.65725 -1.09875,2.65137 0,0.99463 0.395,1.94876 1.09875,2.65188 0.7025,0.70313 1.6575,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5165"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 628.22727,-359.22758 c 0.995,0 1.94875,-0.395 2.65125,-1.09813 0.70375,-0.70362 1.09875,-1.65724 1.09875,-2.65187 0,-0.99463 -0.395,-1.94825 -1.09875,-2.65187 -0.7025,-0.70313 -1.65625,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.395 -2.65125,1.09813 -0.70375,0.70362 -1.09875,1.65724 -1.09875,2.65187 0,0.99463 0.395,1.94825 1.09875,2.65187 0.7025,0.70313 1.65625,1.09813 2.65125,1.09813 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5167"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 633.43227,-349.84233 c 0.995,0 1.94875,-0.3955 2.65125,-1.09863 0.70375,-0.70312 1.09875,-1.65724 1.09875,-2.65137 0,-0.99462 -0.395,-1.94875 -1.09875,-2.65188 -0.7025,-0.70312 -1.65625,-1.09812 -2.65125,-1.09812 -0.995,0 -1.94875,0.395 -2.65125,1.09812 -0.70375,0.70313 -1.09875,1.65726 -1.09875,2.65188 0,0.99413 0.395,1.94825 1.09875,2.65137 0.7025,0.70313 1.65625,1.09863 2.65125,1.09863 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5169"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 638.63727,-339.84383 c 0.995,0 1.94875,-0.3955 2.65125,-1.09862 0.70375,-0.70313 1.09875,-1.65713 1.09875,-2.65138 0,-0.99462 -0.395,-1.94863 -1.09875,-2.65175 -0.7025,-0.70313 -1.65625,-1.09825 -2.65125,-1.09825 -0.995,0 -1.94875,0.39512 -2.65125,1.09825 -0.70375,0.70312 -1.09875,1.65713 -1.09875,2.65175 0,0.99425 0.395,1.94825 1.09875,2.65138 0.7025,0.70312 1.65625,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5171"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 643.84227,-332.49958 c 0.99375,0 1.94875,-0.3955 2.65125,-1.09862 0.70375,-0.70313 1.09875,-1.65713 1.09875,-2.65138 0,-0.99463 -0.395,-1.94863 -1.09875,-2.65175 -0.7025,-0.70313 -1.6575,-1.09825 -2.65125,-1.09825 -0.995,0 -1.94875,0.39512 -2.65125,1.09825 -0.70375,0.70312 -1.09875,1.65712 -1.09875,2.65175 0,0.99425 0.395,1.94825 1.09875,2.65138 0.7025,0.70312 1.65625,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5173"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 649.04727,-328.33746 c 0.99375,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70362 1.09875,-1.65725 1.09875,-2.65188 0,-0.99462 -0.395,-1.94824 -1.09875,-2.65187 -0.7025,-0.70312 -1.6575,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.39501 -2.65125,1.09813 -0.70375,0.70363 -1.09875,1.65725 -1.09875,2.65187 0,0.99463 0.395,1.94826 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5175"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 654.25227,-326.41946 c 0.995,0 1.94875,-0.39499 2.65125,-1.09862 0.70375,-0.70312 1.09875,-1.65725 1.09875,-2.65138 0,-0.99462 -0.395,-1.94874 -1.09875,-2.65187 -0.7025,-0.70312 -1.65625,-1.09813 -2.65125,-1.09813 -0.99375,0 -1.94875,0.39501 -2.65125,1.09813 -0.70375,0.70313 -1.09875,1.65725 -1.09875,2.65187 0,0.99413 0.395,1.94826 1.09875,2.65138 0.7025,0.70363 1.6575,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5177"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 659.45727,-325.67333 c 0.995,0 1.94875,-0.395 2.65125,-1.09812 0.70375,-0.70363 1.09875,-1.65726 1.09875,-2.65188 0,-0.99462 -0.395,-1.94825 -1.09875,-2.65187 -0.7025,-0.70313 -1.65625,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.395 -2.65125,1.09813 -0.70375,0.70362 -1.09875,1.65725 -1.09875,2.65187 0,0.99462 0.395,1.94825 1.09875,2.65188 0.7025,0.70312 1.65625,1.09812 2.65125,1.09812 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5179"
+       style="fill:none;stroke:#ff0000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 664.66227,-325.41696 c 0.995,0 1.94875,-0.39512 2.65125,-1.09862 0.70375,-0.70325 1.09875,-1.65675 1.09875,-2.65138 0,-0.99462 -0.395,-1.94874 -1.09875,-2.65187 -0.7025,-0.70313 -1.65625,-1.09813 -2.65125,-1.09813 -0.995,0 -1.94875,0.395 -2.65125,1.09813 -0.70375,0.70312 -1.09875,1.65725 -1.09875,2.65187 0,0.99463 0.395,1.94813 1.09875,2.65138 0.7025,0.7035 1.65625,1.09862 2.65125,1.09862 z"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5181"
+       style="fill:none;stroke:#808080;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 630.82977,-329.70368 0,-85.49809"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5185"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 394.00752,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5187"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.00752,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5189"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5191"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,53.2367,26.4445)">
+        <tspan
+           id="tspan5193"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−8</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5195"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 427.83902,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5197"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 427.83902,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5199"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5201"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,80.3098,26.4445)">
+        <tspan
+           id="tspan5203"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−6</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5205"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 461.67102,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5207"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 461.67102,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5209"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5211"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,107.383,26.4445)">
+        <tspan
+           id="tspan5213"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−4</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5215"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 495.50227,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5217"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 495.50227,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5219"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5221"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,134.464,26.4445)">
+        <tspan
+           id="tspan5223"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.0879998">−2</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5225"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 529.33477,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5227"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 529.33477,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5229"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5231"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,163.514,26.4445)">
+        <tspan
+           id="tspan5233"
+           y="0"
+           x="0">0</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5235"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 563.16602,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5237"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 563.16602,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5239"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5241"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,190.548,26.4445)">
+        <tspan
+           id="tspan5243"
+           y="0"
+           x="0">2</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5245"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 596.99852,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5247"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 596.99852,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5249"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5251"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,217.543,26.4445)">
+        <tspan
+           id="tspan5253"
+           y="0"
+           x="0">4</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5255"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 630.82977,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5257"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 630.82977,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5259"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5261"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,244.687,26.4445)">
+        <tspan
+           id="tspan5263"
+           y="0"
+           x="0">6</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5265"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 664.66227,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5267"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 664.66227,-316.55183 0,5"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,322.90102,-267.22658)"
+       id="g5269"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5271"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,271.752,26.4445)">
+        <tspan
+           id="tspan5273"
+           y="0"
+           x="0">8</tspan>
+      </text>
+      <text
+         id="text5275"
+         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,118.568,14.2257)">
+        <tspan
+           id="tspan5277"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.336 8 12.449221 14.671878 19.121099 21.785099 24.449099 28.898319 33.347542 35.570198 40.019417 41.796761 45.796761 50.245983 54.695202 57.359203 59.136543 61.359203 65.3592 67.581856 70.245857 74.695084 76.47242 80.47242 84.921646 86.69899 90.69899">Preferred disparity (pixels)</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5279"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-329.05183 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5281"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-329.05183 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-267.22658)"
+       id="g5283"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5285"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,47.6477)">
+        <tspan
+           id="tspan5287"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.00</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5289"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-339.88571 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5291"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-339.88571 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5299"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-350.71971 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5301"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-350.71971 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-267.22658)"
+       id="g5303"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5305"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,64.982)">
+        <tspan
+           id="tspan5307"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.10</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5309"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-361.55371 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5311"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-361.55371 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5319"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-372.3877 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5321"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-372.3877 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-267.22658)"
+       id="g5323"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5325"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,82.3164)">
+        <tspan
+           id="tspan5327"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.20</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5329"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-383.22171 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5331"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-383.22171 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5339"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-394.05533 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5341"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-394.05533 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-267.22658)"
+       id="g5343"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5345"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,99.6508)">
+        <tspan
+           id="tspan5347"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.30</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5349"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-404.89033 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5351"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-404.89033 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5359"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 385.50752,-415.72408 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5361"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-415.72408 -5,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,326.90102,-267.22658)"
+       id="g5363"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text5365"
+         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,25.8852,116.985)">
+        <tspan
+           id="tspan5367"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8929675 5.8378901 9.7308578">0.40</tspan>
+      </text>
+      <text
+         id="text5369"
+         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,1,1,0,19.2445,66.582)">
+        <tspan
+           id="tspan5371"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.7773428 10.226563 14.226563 18.675785 23.125006 27.574226 31.574226">Response</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5373"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.00752,-316.55183 270.65475,0"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5375"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50752,-329.05183 0,-86.67225"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="340.52533"
+       y="-579.59204"
+       id="text4515"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan4517"
+         x="340.52533"
+         y="-579.59204"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica">A</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8771"
+       y="-427.59204"
+       x="340.52533"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         y="-427.59204"
+         x="340.52533"
+         id="tspan8773"
+         sodipodi:role="line">B</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8775"
+       y="-579.59204"
+       x="472.37164"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/NunoGoncalves/Dropbox/NRG/PhD/Thesis/chapter1/chapter1-figs/PopResp1.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         y="-579.59204"
+         x="472.37164"
+         id="tspan8777"
+         sodipodi:role="line">Population response</tspan></text>
+  </g>
+</svg>

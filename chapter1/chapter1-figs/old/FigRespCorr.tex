@@ -1,0 +1,45 @@
+\begin{figure}[!h]
+\centering
+
+\begin{tikzpicture}[baseline] 
+\begin{axis}[
+  width=0.4\textwidth,
+  height=0.3\textwidth,
+  axis y line*=left,
+  axis x line*=bottom,
+  ylabel={Simple unit response},
+  ylabel style = {blue},
+  ylabel near ticks,
+  yticklabel pos=left,
+  y axis line style={blue},
+  ytick style={blue},
+  yticklabel style={blue},
+  xlabel={Disparity (pixel)},
+  xmin=-20,xmax=20,
+  no markers,
+]
+\addplot[blue] table {data/infSimplePhase4_response.txt};
+\end{axis}
+
+\begin{axis}[
+  width=0.4\textwidth,
+  height=0.3\textwidth,
+  axis y line*=right,
+  axis x line*=bottom,
+  ylabel={Cross-correlation},
+  ylabel style = {red},
+  ylabel near ticks,
+  yticklabel pos=right,
+  y axis line style={red},
+  ytick style={red},
+  yticklabel style={red},
+  xmin=-20,xmax=20,
+  no markers,
+]
+\addplot[red] table {data/infSimplePhase4_rfcorrelation.txt};
+\end{axis}
+\end{tikzpicture}
+
+\caption[Interocular cross-correlation and disparity tuning.]{The interocular receptive field cross-correlation (blue) approximates the disparity tuning curve of simple units. Disparity tuning curve (red) and interocular receptive field cross-correlogram (blue) for an example simple unit.}
+\label{fig:RespCorr}
+\end{figure}

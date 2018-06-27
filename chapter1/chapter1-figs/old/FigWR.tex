@@ -1,0 +1,21 @@
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture} 
+\begin{axis}[
+  width=0.35\textwidth, 
+  height=0.35\textwidth,
+  xmin=-0.8, xmax=0.8,
+  ymin=-0.2, ymax=0.2,
+  xtick={-0.8,-0.4,0,0.4,0.8},
+  ytick={-0.2,-0.1,0,0.1,0.2},
+  xlabel=RF cross-correlation,
+  ylabel=Readout weight]
+\addplot+[color=red, mark=o, only marks] table
+    {data/wrNear.txt};
+\addplot+[color=blue, mark=o, only marks] table
+    {data/wrFar.txt};
+\end{axis}
+\end{tikzpicture}
+\caption[Relationship between readout weights and receptive fields]{Simple unit readout weights are proportional to their interocular cross-correlation. Red elements: \textit{near} complex unit; blue elements: \textit{far} complex unit.}
+\label{fig:WR}
+\end{figure}

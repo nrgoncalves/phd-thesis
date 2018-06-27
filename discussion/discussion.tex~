@@ -1,0 +1,24 @@
+\def\baselinestretch{1}
+\chapter{Discussion}
+\ifpdf
+    \graphicspath{{Conclusions/ConclusionsFigs/PNG/}{Conclusions/ConclusionsFigs/PDF/}{Conclusions/ConclusionsFigs/}}
+\else
+    \graphicspath{{Conclusions/ConclusionsFigs/EPS/}{Conclusions/ConclusionsFigs/}}
+\fi
+
+\def\baselinestretch{1.66}
+
+Discussion goes here. A few topics that I must not forget to discuss:
+\begin{itemize}
+\item what may be the role of cortical organization: it exists (ocular dominance, orientation, disparity, motion, etc), but why is it there?
+\item what are the main issues left to be explained in stereopsis?
+\end{itemize}
+
+%%% ----------------------------------------------------------------------
+
+% ------------------------------------------------------------------------
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../thesis"
+%%% End: 

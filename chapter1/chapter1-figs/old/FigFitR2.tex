@@ -1,0 +1,66 @@
+\begin{figure}[!h]
+\centering
+
+\begin{tikzpicture}[baseline]
+\begin{axis}[
+  ylabel = Frequency,
+  axis x line*=bottom,
+  axis y line*=left,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  title=Left,
+  ybar,
+  ymin=0
+]
+\addplot +[
+    hist={
+        bins=7
+    }   
+] table [y index=0] {data/fitR2L.txt};
+\end{axis}
+\end{tikzpicture}
+%
+\hskip 10pt
+%
+\begin{tikzpicture}[baseline]
+\begin{axis}[
+  xlabel = $R^2$,
+  axis x line*=bottom,
+  axis y line*=left,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  title=Right,
+  ybar,
+  ymin=0
+]
+\addplot +[
+    hist={
+        bins=7
+    }   
+] table [y index=0] {data/fitR2R.txt};
+\end{axis}
+\end{tikzpicture}
+%
+\hskip 10pt
+%
+\begin{tikzpicture}[baseline]
+\begin{axis}[
+  axis x line*=bottom,
+  axis y line*=left,
+  width=0.3\textwidth,
+  height=0.3\textwidth,
+  title=Pooled,
+  ybar,
+  ymin=0
+]
+\addplot +[
+    hist={
+        bins=7
+    }   
+] table [y index=0] {data/fitR2.txt};
+\end{axis}
+\end{tikzpicture}
+
+\caption{Distribution of $R^2$ values for Gabor approximations to the receptive fields of the model}
+\label{fig:FitR2}
+\end{figure}
