@@ -244,9 +244,9 @@ where $w^{(k)}$ is the 19x19x2 dimensional binocular kernel of the $k^{th}$ conv
 
 where $w^{(Lk)}$ and $w^{(Rk)}$ represent the $k^{th}$ kernels applied to left and right images (i.e. left and right receptive fields), while $s_L^j$ and $s_R^j$ represent the left and right input images captured by the receptive field of unit $j$. 
 
-The convolutional layer was followed by a max-pooling layer that down-sampled each kernel map by a factor of two, producing 28 maps of dimensions 6-by-6 pixels. Finally, a logistic regression layer (1,008 connections; 36 per feature map, resulting in 1,010 parameters including the bias terms) mapped the activities in the pooling layer to two output decision units. The vector of output activities $r$ was obtained by mapping the vector of activities in the pooling layer a via the weight matrix $W$ and adding the bias terms $b$, followed by a $softmax$ operation:
+The convolutional layer was followed by a max-pooling layer that down-sampled each kernel map by a factor of two, producing 28 maps of dimensions 6-by-6 pixels. Finally, a logistic regression layer (1,008 connections; 36 per feature map, resulting in 1,010 parameters including the bias terms) mapped the activities in the pooling layer to two output decision units. The vector of output activities $r$ was obtained by mapping the vector of activities in the pooling layer a via the weight matrix $W$ and adding the bias terms $b$, followed by a $\mathrm{softmax}$ operation:
 \begin{equation}
-  r=softmax(Wa+b)
+  r=\mathrm{softmax}(Wa+b)
 \end{equation}
 
 The predicted class was determined as the unit with highest activity. For $N$-way classification, the architecture was identical except for the number of output units of the BNN.
@@ -304,7 +304,7 @@ Complex units in the BNN responded more vigorously to correlated (cRDS) than ant
 
 \subsection*{N-way classification}
 
-In addition to the binary case, we also trained a network to perform $N$-way classification. The only change required to the network was an increase in the number of output complex units. In particular, we optimized a network for 7- and 11-way classification. In these cases, the complex units of the network also display inversion and attenuation for anticorrelated random-dot stereograms, with comparable but more variable amplitude ratios (Supplementary Figure \ref{fig:c1fs3}). We found that the corresponding tuning curves featured abrupt changes in selectivity, and some were not well described by Gabor-like profiles. We note that this is also the case in cortex (i.e., that Gabor functions do not always describe disparity tuning well). However, the abrupt variations in tuning could be alleviated by varying the temperature of the \textit{softmax} nonlinearity, or by defining the $N$-way classification problem to operate over a broader disparity space.
+In addition to the binary case, we also trained a network to perform $N$-way classification. The only change required to the network was an increase in the number of output complex units. In particular, we optimized a network for 7- and 11-way classification. In these cases, the complex units of the network also display inversion and attenuation for anticorrelated random-dot stereograms, with comparable but more variable amplitude ratios (Supplementary Figure \ref{fig:c1fs3}). We found that the corresponding tuning curves featured abrupt changes in selectivity, and some were not well described by Gabor-like profiles. We note that this is also the case in cortex (i.e., that Gabor functions do not always describe disparity tuning well). However, the abrupt variations in tuning could be alleviated by varying the temperature of the $\mathrm{softmax}$ nonlinearity, or by defining the $N$-way classification problem to operate over a broader disparity space.
 
 
 \subsection*{Computing optimal stimuli}
