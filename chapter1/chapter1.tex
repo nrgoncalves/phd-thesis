@@ -113,7 +113,7 @@ w_j^L = w_j^R = e^{-(x'^2+y'^2)/(2\sigma^2)} \cos⁡(2\pi f x' + \phi)
 
 with $f$=0.1 cycles/pixel, $\sigma$=3 pixel, $\theta$=$\pi/2$ radians, $x'=x \cos (\theta)+y \sin (\theta)$, $y'=-x \sin (\theta) + y \cos (\theta)$, and $\phi$  the phase of the cosine term of each unit, which was equally spaced between $0$ and $\pi$. The bias terms of these units were initialized to zero. During training, I did not constrain the filters to any particular morphology, neither did I constrain properties such as spatial frequency selectivity. In the logistic regression layer, the weights and bias terms were all initialized to zero. 
 
-The BNN was trained using mini-batch gradient descent with each batch comprising 100 examples (50 examples of each class). For each batch, I computed the derivative of the loss function with respect to parameters of the network via back-propagation, and adjusted the parameters for the next iteration according to the update rule
+The BNN was trained using mini-batch gradient descent with each batch comprising 100 examples (50 examples of each class). For each batch, I computed the derivative of the loss function $L$ with respect to parameters of the network via back-propagation, and adjusted the parameters for the next iteration according to the update rule
 
 \begin{equation}
   w_{i+1}=w_i - \alpha \Bigg \langle \frac{\partial L}{\partial w_{(D_i)}} \Bigg \rangle
@@ -131,7 +131,7 @@ For comparison with psychophysical observations, I also tested the BNN with larg
 
 \subsection*{Modelling binocular receptive fields}
 
-The receptive fields of simple units in the BNN were not constrained to develop a particular structure (i.e. Gabor functions) during optimization --- they could in principle develop any kind of morphology. I therefore assessed whether the receptive field structure mirrored that found in simple cells in primary visual cortex. In particular, I set out to test (i) if the receptive fields were well approximated by Gabor functions, and (ii) what kind of encoding mechanism they develop --- i.e. position, phase or hybrid encoding. 
+The receptive fields of simple units in the BNN were not constrained to develop a particular structure (i.e. Gabor functions) during optimization --- they could in principle develop any kind of receptive field. I therefore assessed whether the receptive field structure mirrored that found in simple cells in primary visual cortex. In particular, I set out to test (i) if the receptive fields were well approximated by Gabor functions, and (ii) what kind of encoding mechanism they develop --- i.e. position, phase or hybrid encoding. 
 
 I started by assessing whether the receptive fields were well approximated by Gabor functions. To reduce the number of free-parameters, I examined the horizontal cross-section of the receptive field, and fit a 1-dimensional Gabor function,
 
@@ -161,7 +161,7 @@ In addition to the binary case, I also trained a network to perform $N$-way clas
 
 \subsection*{Computing optimal stimuli}
 
-To confirm that the model was well tuned to extract physical binocular disparities, I synthesized input images that could best activate the complex units of the network. The intuition is that we can visualize what inputs are most efficient in driving a given complex unit, and thereafter evaluate whether the input is sensible. The objective function is therefore the activity of a given complex unit, which we want to maximize. Equivalently, for an output unit $j$, I minimized the negative of its input:
+To confirm that the model was well tuned to extract physical binocular disparities, I synthesized input images that could best activate the complex units of the network. The intuition is that we can visualize what inputs are most efficient in driving a given complex unit, and thereafter evaluate whether the input is sensible. The objective function is therefore the activity of a given complex unit, which we want to maximize. Equivalently, for an output unit $j$, I minimized the loss $L$ defined as the negative of its input:
 \begin{equation}
   L_j = - \big( W_j a + b_j \big) 
   \label{eq:OptLoss}
@@ -260,8 +260,8 @@ By working in log-space, we can convert the logarithm of the product of likeliho
 \begin{IEEEeqnarray}{rCl}
  \log L(\delta) & = & \sum_{i=1}^N \log p(r_i| \delta) \\
 & = & \sum_{i=1}^N \log \Bigg( \frac{1}{\sqrt{2 \pi \sigma_i}} e^{- \frac{(r_i-f_i(\delta))^2}{2 \sigma_i^2}}\Bigg) \\
-& = & \sum_{i=1}^N -\frac{(r_i-f_i(\delta))^2}{2 \sigma_i^2} - \log \big(\sqrt{2 \pi \sigma_i}) \\
-& = & \sum_{i=1}^N \frac{r_i f_i(\delta)}{\sigma_i^2} - \frac{1}{2} \Bigg(\frac{r_i^2}{\sigma_i^2}-\frac{f_i(\delta)^2}{\sigma_i^2} - \log \big(2 \pi \sigma_i) \Bigg). \\
+& = & \sum_{i=1}^N -\frac{(r_i-f_i(\delta))^2}{2 \sigma_i^2} + \log \big(\sqrt{2 \pi \sigma_i}) \\
+& = & \sum_{i=1}^N \frac{r_i f_i(\delta)}{\sigma_i^2} - \frac{1}{2} \Bigg(\frac{r_i^2}{\sigma_i^2} + \frac{f_i(\delta)^2}{\sigma_i^2} + \log \big(2 \pi \sigma_i) \Bigg).
 \label{eq:LogLikelihoodDisp}
 \end{IEEEeqnarray}
 
@@ -348,7 +348,7 @@ To ensure that these parallels between the BNN and neurophysiology were not inci
 \begin{figure}[!h]
   \centering
   \includegraphics{chapter1/chapter1-figs/Fig4.pdf}
-  \caption[Optimal stimuli for the binocular neural network.]{({\bf A}) Computing the optimal stimulus for a complex unit. Starting with random noise inputs, the algorithm computed the gradient of complex unit activity with respect to the input images. It iteratively adjusted the inputs to maximize the complex unit's activity. ({\bf B}) Snapshots of three iterations during optimisation: a consistent On-Off pattern emerges in the left and right eyes, horizontally translated to match the preferred disparity of the unit. ({\bf C}) This pattern remains when `lesioning' the BNN of 25\% of the simple units that use position encoding. ({\bf D}) Removing highly-weighted hybrid units leads to input images that are unrealistic.}
+  \caption[Optimal stimuli for the binocular neural network.]{({\bf A}) Computing the optimal stimulus for a complex unit. Starting with random noise inputs, the algorithm computed the gradient of complex unit activity with respect to the input images. It iteratively adjusted the inputs to maximize the complex unit's activity. ({\bf B}) Snapshots of three iterations during optimisation: a consistent On-Off pattern emerges in the left and right eyes, horizontally translated to match the preferred disparity of the unit. ({\bf C}) This pattern remains when `lesioning' the BNN of 25\% of the simple units that use position encoding. ({\bf D}) Removing highly-weighted hybrid units leads to input images that are unrealistic because the left and right images are the opposite of one another.}
   \label{fig:c1f4}
 \end{figure}
 
@@ -454,7 +454,7 @@ Previously it was suggested that phase encoding is used to sense `impossible' st
 
 More generally, it is important to ask why the BNN, optimised by natural images, uses hybrid encoding for its simple units. The traditional exposition of binocular vision starts from the convenient geometry of how a small number of isolated points in the world project into the retinal images sensed by the two eyes. Models of binocular vision are typically built upon the logic of inverting this mapping based on establishing the `correct' matches. However, the BNN suggests that the diet of early visual neurons consists almost entirely of mismatched features: the one `true' set of correspondences between the two eyes is engulfed by a preponderance of mismatches. 
 
-When interpreting the properties of the BNN it is important to recall that the network learnt the relationship between specific inputs (i.e., one natural image set) and the optimisation objective (i.e., a particular discrimination task). Systematically changing either would change the learnt model. Nevertheless, the BNN generalised to a different stimulus set (random dot patterns) and had properties mirroring neurophysiology. It is interesting that the BNN's receptive fields are vertically-oriented. While this makes sense when capturing horizontal disparities, real V1 binocular neurons have varied orientation tuning preferences \cite{DeAngelis:1991mb}. This difference may relate to the fact that the BNN is constrained to optimise one task (disparity discrimination) while V1 neurons are required to support many. It will be interesting to test how defining models for multiple objectives (e.g., estimating the orientation of features tilted in depth) affects encoding properties. For instance, future work might test whether units become specialised for particular functions {\it vs}. develop joint-encoding characteristics. This might most straightforwardly be applied to proscriptive processing for motion estimation (given the strong computational similarities between disparity and motion \cite{Anzai:2001wi}), but may also extend to other feature dimensions.
+When interpreting the properties of the BNN it is important to recall that the network learnt the relationship between specific inputs (i.e., one natural image set) and the optimisation objective (i.e., a particular discrimination task). Systematically changing either would change the learnt model. Nevertheless, the BNN generalised to a different stimulus set (random dot patterns) and had properties mirroring neurophysiology. It is interesting that the BNN's receptive fields are vertically-oriented. While this makes sense when capturing horizontal disparities, real V1 binocular neurons have varied orientation tuning preferences \cite{DeAngelis:1991mb}. This difference may relate to the fact that the BNN is constrained to optimise one task (disparity discrimination) while V1 neurons are required to support many, such as coding of orientation and spatial frequency. It will be interesting to test how defining models for multiple objectives (e.g., estimating the orientation of features tilted in depth) affects encoding properties. For instance, future work might test whether units become specialised for particular functions {\it vs}. develop joint-encoding characteristics. This might most straightforwardly be applied to proscriptive processing for motion estimation (given the strong computational similarities between disparity and motion \cite{Anzai:2001wi}), but may also extend to other feature dimensions.
 
 \subsubsection*{Relation to the disparity energy model}
 
